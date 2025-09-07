@@ -25,7 +25,7 @@ The Track 1 challenge focuses on developing methods for land cover mapping in al
 
 **Get involved! Check out the following links:** </br>
 ☀️ Challenge webpage [2025 IEEE GRSS Data Fusion Contest](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest) </br>
-☀️ Dataset download [https://zenodo.org/records/14622048](https://zenodo.org/records/14622048) </br>
+☀️ Dataset download [https://zenodo.org/records/14622048](https://zenodo.org/records/14622047) </br>
 ☀️ Submission portal [https://codalab.lisn.upsaclay.fr/competitions/21121](https://codalab.lisn.upsaclay.fr/competitions/21121) </br>
 ☀️ The OpenEarthMap-SAR dataset [paper](https://arxiv.org/abs/2501.10891)
 </p>
@@ -69,12 +69,13 @@ python train.py
 <div align="justify">
 For any scientific publication using this data, the following paper should be cited:
 <pre style="white-space: pre-wrap; white-space: -moz-pre-wrap; white-space: -pre-wrap; white-space: -o-pre-wrap; word-wrap: break-word;">
-@misc{xia_2025_oem_sar,
-      title={OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping}, 
+
+ @article{xia_2025_oem_sar,
+      title={BRIGHT: A globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response}, 
       author={Junshi Xia, Hongruixuan Chen, Clifford Broni-Bediako, Yimin Wei, Jian Song, and Naoto Yokoya},
+      journal={IEEE Geoscience and Remote Sensing Magazine},
       year={2025},
-      note={arXiv:2501.10891},
-      url={https://arxiv.org/abs/2501.10891}, 
+      url={https://arxiv.org/abs/2501.06019}, 
 }
 </pre>
 </div>
